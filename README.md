@@ -14,6 +14,7 @@ Fullstack developer desde Perú 🇵🇪. Construyo productos web completos — 
 | 📚 | [yomiru-manga-web](https://github.com/enderdev01/yomiru-manga-web) | Ecosistema para leer manga y libros: app móvil en Expo, API en Fastify, web en Astro e ingestor, en un monorepo. |
 | 🎬 | [butacas-libres](https://github.com/enderdev01/butacas-libres) | Cuántas butacas quedan en cada función de cine, por sede y por película. Lee en vivo Cineplanet, Cinemark y Cinépolis. Sin dependencias, sin base de datos. |
 | 🎵 | [guess-the-year](https://github.com/enderdev01/guess-the-year) | Juego multijugador en tiempo real: escuchás un fragmento y adivinás el año de la canción. Salas con código, puntaje por cercanía, catálogo desde Spotify. |
+| 🤖 | [agent-notch](https://github.com/enderdev01/agent-notch) | Convierte el notch del MacBook en un panel en vivo para tus agentes de IA (Claude Code, Codex y Gentle Shell): ves qué hace cada uno, sigues sus pasos y apruebas permisos sin salir de lo que haces. App nativa de macOS, local y sin red. → [descarga](https://github.com/enderdev01/agent-notch/releases/latest) |
 
 ## Stack
 
@@ -21,6 +22,7 @@ Fullstack developer desde Perú 🇵🇪. Construyo productos web completos — 
 Frontend     TypeScript · React · Next.js · Angular · Astro · Tailwind
 Backend      Node · Fastify · Python · PostgreSQL · Supabase
 Mobile       Expo · Ionic · Kotlin
+Desktop      Swift · SwiftUI (macOS)
 Diseño       Figma · UI & UX
 ```
 
