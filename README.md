@@ -21,15 +21,6 @@ Fullstack developer desde Perú 🇵🇪. Construyo productos web completos — 
 | 🔐 | [selnote-web](https://github.com/enderdev01/selnote-web) | Notas cifradas localmente y sincronizadas entre dispositivos. Sin cuentas, sin backend central. → [demo](https://enderdev01.github.io/selnote-web/) |
 | 📚 | [yomiru-manga-web](https://github.com/enderdev01/yomiru-manga-web) | Ecosistema para leer manga y libros: app móvil en Expo, API en Fastify, web en Astro e ingestor, en un monorepo. → [web](https://yomiru-manga-web.vercel.app) |
 | 🎬 | [butacas-libres](https://github.com/enderdev01/butacas-libres) | Cuántas butacas quedan en cada función de cine, por sede y por película. Lee en vivo Cineplanet, Cinemark y Cinépolis. Sin dependencias, sin base de datos. |
-| 🧾 | [project-tacuen](https://github.com/enderdev01/project-tacuen) | Digitaliza boletas, revisa la extracción con IA y reparte gastos entre personas, con exportación a Excel. → [demo](https://project-tacuen.vercel.app) |
-| 🎵 | [guess-the-year](https://github.com/enderdev01/guess-the-year) | Juego multijugador en tiempo real: escuchás un fragmento y adivinás el año de la canción. Salas con código, puntaje por cercanía, catálogo desde Spotify. |
-
-## Sitios para clientes
-
-| | Proyecto | Descripción |
-|---|---|---|
-| 🏢 | [integra-landing](https://github.com/enderdev01/integra-landing) | Sitio institucional de Integra con Astro, Tailwind CSS y formularios de contacto con validación y correos. → [integrasgp.com](https://integrasgp.com/) |
-| 🩺 | [hakui-medical](https://github.com/enderdev01/hakui-medical) | Landing de demostración para una clínica ambulatoria de seis especialidades, 100 % en el navegador. → [demo](https://hakui-medical.vercel.app) |
 
 ## Stack
 
